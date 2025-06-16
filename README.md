@@ -57,5 +57,3 @@ Feel free to check out my repos or reach out if you're into embedded systems, el
 ---
 
 > "Learning by building" is my motto. Always experimenting, always iterating.
->
-> [!LinkedIn](https://www.linkedin.com/in/mohammed-amaan-m-patel-a39a53314/)
