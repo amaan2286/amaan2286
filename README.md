@@ -43,10 +43,13 @@ I'm an engineering student with a passion for **embedded systems**, **power elec
 
 Here are a few highlights from my journey:
 
+- **🔊 Ultrasonic Sensor Robot** – A basic obstacle-avoiding robot using HC-SR04 and Arduino.
 - 🔭 **Solar Tracker** – Dual-axis tracker using light sensors and servo motors  
 - 🔄 **BLDC Motor Controller** – Control logic with Hall sensor feedback  
-- 📐 **PCB Design** – Custom LED blinking board in KiCad  
-- 💡 **Wireless Power Transfer** – Simulated wireless charging circuit in LTspice  
+- **📊 Data Visualization with Python** – Used NumPy and Matplotlib to create scatter plots.
+- **☁️ Google Cloud Mini Projects** – Basics of cloud shell, VM instances, and file handling via terminal.
+- 🔍 More projects coming soon... stay tuned!
+
 
 ---
 
