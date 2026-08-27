@@ -41,16 +41,41 @@ I'm an engineering student with a passion for **embedded systems**, **power elec
 
 ## 🚀 Projects Worth Checking Out
 
-Here are a few highlights from my journey:
+### 🖥️ Pre-emptive RTOS Scheduler (C)
 
-- **🔊 Ultrasonic Sensor Robot** – A basic obstacle-avoiding robot using HC-SR04 and Arduino.
-- 🔭 **Solar Tracker** – Dual-axis tracker using light sensors and servo motors  
-- 🔄 **BLDC Motor Controller** – Control logic with Hall sensor feedback  
-- **📊 Data Visualization with Python** – Used NumPy and Matplotlib to create scatter plots.
-- **☁️ Google Cloud Mini Projects** – Basics of cloud shell, VM instances, and file handling via terminal.
-- 🔍 More projects coming soon... stay tuned!
+Built a pre-emptive Real-Time Operating System (RTOS) scheduler from scratch in C, implementing core operating system scheduling concepts.
 
+### Features
+- ⚡ Pre-emptive priority-based task scheduling
+- ⏱️ SysTick timer-driven context switching
+- 📋 Task Control Block (TCB) management
+- 🔄 Ready queue and task state transitions
+- 🎯 Round-robin scheduling for equal-priority tasks
+- 🚫 Critical section protection and interrupt handling
+- 📈 CPU utilization and scheduling performance analysis
 
+### Tech Stack
+`C` • `Embedded Systems` • `RTOS` • `ARM Cortex-M` *(if applicable)* • `STM32` *(if applicable)* • `Bare Metal Programming`
+
+### Key Learnings
+- RTOS kernel architecture
+- Context switching mechanisms
+- Interrupt-driven scheduling
+- Memory and stack management
+- Low-level embedded programming
+
+🔗 Repository: https://github.com/amaan2286/mini-rtos-scheduler
+
+### 📈 Algorithmic Signal Filter
+**Tech Stack:** C++, Python, NumPy, Pandas, Matplotlib
+
+- Built a quantitative trading signal engine using technical indicators and statistical analysis.
+- Implemented moving averages, RSI, MACD, Bollinger Bands, and momentum-based strategies.
+- Backtested strategies on historical market data to evaluate profitability and risk.
+- Visualized performance metrics including returns, drawdowns, and equity curves.
+- Focused on writing modular, optimized code suitable for financial data analysis.
+
+🔗 Repository: https://github.com/amaan2286/algorithmic-signal-filter
 ---
 
 ## 📫 Let's Connect
